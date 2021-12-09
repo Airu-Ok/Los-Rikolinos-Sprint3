@@ -4,8 +4,7 @@
   "description": "Presentable del link al tablero de trabajo del Sprint3 :",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js"
   },
   "keywords": [],
   "author": "",
